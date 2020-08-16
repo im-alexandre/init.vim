@@ -1,3 +1,0 @@
-def fname():
-    """docxtr"""
-        pass
